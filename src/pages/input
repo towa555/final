@@ -1,0 +1,9 @@
+function Input(){
+
+    return(
+
+        <input  type={type} placeholder={placeholder} className={classAttrib} />
+    )
+}
+
+export default Input
